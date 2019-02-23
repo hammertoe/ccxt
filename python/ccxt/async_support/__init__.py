@@ -68,6 +68,7 @@ from ccxt.async_support.bitkk import bitkk                                # noqa
 from ccxt.async_support.bitlish import bitlish                            # noqa: F401
 from ccxt.async_support.bitmarket import bitmarket                        # noqa: F401
 from ccxt.async_support.bitmex import bitmex                              # noqa: F401
+from ccxt.async_support.bitrue import bitrue                              # noqa: F401
 from ccxt.async_support.bitsane import bitsane                            # noqa: F401
 from ccxt.async_support.bitso import bitso                                # noqa: F401
 from ccxt.async_support.bitstamp import bitstamp                          # noqa: F401
@@ -203,6 +204,7 @@ exchanges = [
     'bitlish',
     'bitmarket',
     'bitmex',
+    'bitrue',
     'bitsane',
     'bitso',
     'bitstamp',

@@ -66,6 +66,7 @@ const exchanges = {
     'bitlish':                 require ('./js/bitlish.js'),
     'bitmarket':               require ('./js/bitmarket.js'),
     'bitmex':                  require ('./js/bitmex.js'),
+    'bitrue':                  require ('./js/bitrue.js'),
     'bitsane':                 require ('./js/bitsane.js'),
     'bitso':                   require ('./js/bitso.js'),
     'bitstamp':                require ('./js/bitstamp.js'),
